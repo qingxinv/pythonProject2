@@ -654,6 +654,7 @@ if __name__ == '__main__':
     quanjugengticishu = 3  # 能使用几次更替
     # zhu_xunhuan()  # 过图
     cccooo(45)  # 用度牒重复刷舍利子
+    # 模拟过图
 
 
 
